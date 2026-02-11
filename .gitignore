@@ -5,5 +5,8 @@
 
 # Basura común (por si acaso)
 **/node_modules/
+**/.env/
 **/dist/
 **/generated/
+**/postgres/
+**/pgdata/
