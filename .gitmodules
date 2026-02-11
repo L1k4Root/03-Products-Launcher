@@ -1,0 +1,9 @@
+[submodule "api-gateway"]
+	path = api-gateway
+	url = git@github.com:L1k4Root/ms-api-gateway.git
+[submodule "products-ms"]
+	path = products-ms
+	url = git@github.com:L1k4Root/ms-products.git
+[submodule "order-ms"]
+	path = order-ms
+	url = git@github.com:L1k4Root/ms-order.git
